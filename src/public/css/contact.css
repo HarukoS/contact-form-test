@@ -1,0 +1,146 @@
+body {
+    font-family: "Inika";
+    font-weight: 400;
+}
+
+.register-form__content {
+    margin: 0 auto;
+    padding: 30px 15px;
+    width: 1512px;
+    height: 982px;
+}
+
+.register-form__heading {
+    font-size: 35px;
+    margin-bottom: 35px;
+    text-align: center;
+    color: #8B7969;
+}
+
+.form {
+    margin: 0 auto;
+    width: 972px;
+    height: 606px;
+    text-align: left;
+}
+
+.form__group {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 25px;
+}
+
+.form__group-title {
+    width: 400px;
+    size: 20px;
+}
+
+.form__label--item {
+    color: #8B7969;
+    font-size: 20px;
+}
+
+.form__label--required {
+    margin-left: 2px;
+    color: red;
+}
+
+.form__group-content {
+    width: 618.82px;
+}
+
+.form__input--text {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+input {
+    padding: 8px 20px;
+    border: none;
+    background: #F4F4F4;
+}
+
+.input__name {
+    width: 287.15px;
+    height: 38px;
+    font-size: 14px;
+    color: #BEB1A6;
+}
+
+.form__error {
+    font-size: 14px;
+    color: red;
+}
+
+.input__gender {
+    margin-left: 2%;
+    margin-right: 5%;
+    font-size: 18px;
+    color: #8B7969;
+}
+
+.input__email {
+    width: 100%;
+    height: 38px;
+    font-size: 14px;
+    color: #BEB1A6;
+}
+
+.input__tel {
+    width: 178.12px;
+    height: 38px;
+    text-align: center;
+    font-size: 14px;
+    color: #BEB1A6;
+}
+
+.input__address {
+    width: 100%;
+    height: 38px;
+    font-size: 14px;
+    color: #BEB1A6;
+}
+
+.input__building {
+    width: 100%;
+    height: 38px;
+    font-size: 14px;
+    color: #BEB1A6;
+}
+
+.select__category {
+    width: 331.68px;
+    height: 38px;
+    padding: 8px 20px;
+    font-size: 14px;
+    color: #BEB1A6;
+    border: none;
+    background-color: #F4F4F4;
+}
+
+textarea {
+    width: 100%;
+    height: 129px;
+    padding: 20px 20px;
+    border: none;
+    background: #F4F4F4;
+    font-size: 14px;
+    color: #BEB1A6;
+}
+
+.form__button {
+    margin-top: 70px;
+}
+
+.form__button-submit {
+    margin-left: 410px;
+    width: 160px;
+    height: 46px;
+    border: none;
+    padding: 10px 40px 10px 40px;
+    background: #82756A;
+    font-size: 20px;
+    color: #FFFFFF;
+    cursor: pointer;
+}

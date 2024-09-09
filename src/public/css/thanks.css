@@ -1,0 +1,45 @@
+body {
+    font-family: "Inika";
+    font-weight: 400;
+}
+
+.content {
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.content__back {
+    position: absolute;
+    top: 291px;
+    left: 66px;
+    font-size: 280px;
+    color: #8B79690D;
+}
+
+.content__front {
+    position: absolute;
+    top: 461px;
+    left: 501px;
+    font-size: 30px;
+    color: #8B7969;
+    font-weight: 700;
+}
+
+.home__button {
+    position: absolute;
+    top: 555px;
+    left: 686px;
+}
+
+.home__button-submit {
+    font-size: 20px;
+    display: inline-block;
+    width: 140px;
+    height: 46px;
+    padding: 10px 40px 10px 40px;
+    background: #82756A;
+    color: #FFFFFF;
+    font-size: 20px;
+    border: none;
+    text-decoration: none;
+}

@@ -1,0 +1,82 @@
+body {
+    font-family: "Inika";
+    font-weight: 400;
+}
+
+.register__button-submit {
+    font-size: 20px;
+    display: inline-block;
+    width: 100px;
+    height: 34px;
+    text-align: center;
+    background-color:#F0F0F099;
+    color:#D9C6B5;;
+    border: solid 1px #D9C6B5;
+    text-decoration: none;
+}
+
+.login-form__content {
+    margin: 0 auto;
+    padding: 30px 15px;
+    width: 1512px;
+    height: 982px;
+    background-color: #F1ECE7;
+}
+
+.login-form__heading {
+    font-size: 35px;
+    margin-bottom: 35px;
+    text-align: center;
+    color: #8B7969;
+}
+
+.form {
+    margin: 0 auto;
+    padding: 8% 10%;
+    width: 736px;
+    height: 579px;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    border: solid 1px #C5B9B0;
+}
+
+.form__group {
+    margin-bottom: 30px;
+}
+
+.form__group-title {
+    text-align: left;
+    margin-bottom: 12px;
+}
+
+.form__label--item {
+    font-size: 25px;
+    color: #8B7969;
+}
+
+.form__input--text input {
+    font-size: 14px;
+    color: #BEB1A6;
+    padding: 10px;
+    width: 445px;
+    height: 55px;
+    background: #F4F4F4;
+    border: none;
+    appearance: none;
+}
+
+.form__button {
+    margin-top: 45px;
+}
+
+.form__button-submit {
+    width: 160px;
+    height: 46px;
+    border: none;
+    padding: 10px 40px 10px 40px;
+    background: #82756A;
+    font-size: 20px;
+    color: #FFFFFF;
+    cursor: pointer;
+}

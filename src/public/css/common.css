@@ -1,0 +1,28 @@
+.header__inner {
+    margin: 0 auto;
+    width: 1512px;
+    height: 100px;
+    border: 1px solid #E0DFDE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.header__logo {
+    font-family: "Inika", serif;
+    font-weight: 400;
+    font-size: 40px;
+    text-align: center;
+    color: #8B7969;
+    text-decoration: none;
+}
+
+.register__link {
+    width: 100px;
+    height: 34px;
+    display: inline;
+    position: absolute;
+    top: 33px;
+    left: 1316px;
+}

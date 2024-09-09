@@ -3,7 +3,7 @@
 ## 環境構築
 
 ### Dockerビルド
-    1. [git clone リンク](git@github.com:HarukoS/contact-form-test.git)
+    1. git@github.com:HarukoS/contact-form-test.git
     2. docker-compose up -d --build
 
 *MySQLは、OSによって起動しない場合があるのでそれぞれのPCに合わせてdocker-compose.ymlファイルを編集してください。
@@ -23,7 +23,7 @@
     - MySQL 8.0
 
 ## ER図
-
+![erd drawio](https://github.com/user-attachments/assets/a6826e3d-e4c8-4693-bfdb-7a89128882fc)
 
 ## URL
     - 開発環境：http://localhost/
